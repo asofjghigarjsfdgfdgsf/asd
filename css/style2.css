@@ -1,0 +1,142 @@
+.container2 {
+    border: 1px solid black;
+    box-shadow: 4px 4px 3rem;
+    font-size: x-large;
+    padding: 3rem;
+    border-radius: 1.5rem;
+    margin: 5rem;
+}
+
+.container-texto {
+    font-size: xx-large;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.relato {
+    font-style: italic;
+    font-size: 1.6rem;
+    letter-spacing: -2px;
+}
+
+.marca {
+    text-decoration: underline;
+    transition: .4s;
+}
+
+.marca:hover {
+    color: rgb(0, 108, 224);
+    text-shadow: 3px 3px 2rem;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    font-size: 1.9rem;
+    font-weight: bolder;
+}
+
+.a8 {
+    color: #001797;
+    transition: .4s;
+    font-weight: bold;
+}
+
+.a8:hover{
+    color: white;
+    text-decoration: none;
+}
+
+/*Footer*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo-home {
+    width: 90px;
+    height: 90px;
+}
+
+.logo{
+    padding-top: 40px;
+    width: 160px;
+    height: 190px;
+}
+
+.rodaPé {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #001797;
+    min-height: 20rem;
+    color: white;
+    font-size: 1.3rem;
+}
+
+.footerMenu {
+    padding-left: 40rem;
+}
+
+.menu {
+    padding-top: 60px;
+    font-size: 1.8rem;
+    padding-bottom: 10px;
+}
+
+.contato {
+    padding-top: 60px;
+    font-size: 1.8rem;
+}
+
+/*links*/
+
+.a2 {
+    transition: 0.5s;
+    margin-top: 3%;
+    text-decoration: none;
+    color: antiquewhite;
+    padding-right: 30px;
+}
+
+.a2:hover {
+    text-decoration: none;
+    color: aqua;
+    transition: 0.5s;
+    text-shadow: 3px 3px 3rem;
+}
+
+/*img*/
+
+.logo {
+    padding-left: 30px;
+    padding-top: 60px;
+}
+
+.img4 {
+    height: 45px;
+    text-align: end;
+    width: 40px;
+    padding-top: 10px;
+}
+
+.img5 {
+    height: 42px;
+    text-align: end;
+    width: 36px;
+    padding-top: 10px;
+}
+
+/*fundo azul mais escuro */
+
+.copyright {
+    background-color: #000834;
+    color: white;
+    min-height: 3rem;
+    display: flex;
+    justify-content: center;
+}
+
+.p4 {
+    padding-top: 10px;
+}
